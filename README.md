@@ -1,9 +1,7 @@
-# DIY_MSX_paddle
+# DIY MSX Paddle controller
 ## Overview
 
-DIY MSX Paddle controller.
-
-for "MSX Arkanoid".
+The paddle controller for "Arkanoid MSX edition".
 
 ![msx_paddle_photo](https://user-images.githubusercontent.com/5597377/178110127-3ca5ed5c-6f5a-4639-9a0a-9bcf52ccb1e2.jpg)
 
