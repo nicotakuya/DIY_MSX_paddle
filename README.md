@@ -7,7 +7,7 @@ The paddle controller for "Arkanoid MSX edition".
 
 ## Parts
 
-U1:ATmega328P(Arduino Pro Mini compatible)
+U1:ATmega328P
 
 U2:FT232RQ
 
@@ -16,6 +16,16 @@ X1:oscillator 16MHz
 VR1:Volume 100k ohm
 
 CN1:Dsub9pin female
+
+## Schematics
+
+please look "msx_paddle_schematics.png"
+
+## How to build
+
+Launch the Arduino IDE.Open and run a program(.ino).
+
+the board setting is "Arduino Pro Mini(ATmega328P,5V,16MHz)".
 
 ## Reference
 
